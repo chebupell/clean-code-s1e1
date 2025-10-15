@@ -13,7 +13,7 @@ body {
 .links-wrap img {
   width: 100%;
 }
-.links-wrap .more-inf {
+.links-wrap .more-info {
   font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
 .links-wrap { text-align: center;
 }
 }
-.centered-main-page-element {
+.page-elements {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.task-row-wrap {
   display: flex;
 }
 ul {
